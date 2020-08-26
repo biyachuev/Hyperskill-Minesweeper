@@ -1,5 +1,5 @@
 # Hyperskill-Minesweeper
-Hyperskill Learning project
+Jetbrains Hyperskill learning project - Minesweeper
 
 Description
 
